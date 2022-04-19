@@ -1,0 +1,69 @@
+.one{
+    margin: 0 0 0 20%;
+    width: 300px;
+    position: absolute;
+    padding:100px 50px;
+}
+.two{
+    margin:0 20% 0 auto;
+    width: 300px;
+    padding: 100px 50px;
+}
+.thre{
+    margin: 0 0 0 20%;
+    width: 300px;
+    padding:  50px;
+    position: absolute;
+}
+.four{
+    margin:0 20% 0 auto;
+    width: 300px;
+    padding: 50px;
+}
+.grup_one{
+    height: 450px;
+    text-align: left;
+    padding: 30px;
+}
+.grup_two{
+    height: 450px;
+    text-align: left;
+    padding: 30px;
+}
+.r{
+    margin:0 0 0 45%;
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    border-radius: 0.5px;
+}
+/*.ul{
+    position: absolute;
+}*/
+.f{
+    color: aqua;
+    margin: 0 0 0 10%;
+    padding: 50px 50px 50px 100px ;
+    position: absolute;
+}
+.g{
+    margin: 0 0 0 30%;
+    position: absolute;
+    padding: 50px 50px 50px 50px ;
+}
+.h{
+    padding: 50px 50px 50px 50px ;
+    position: absolute;
+    margin: 0 0 0 50%;
+}
+.n{
+    padding: 50px 50px 50px 50px ;
+    position: absolute;
+    margin: 0 0 0 70%;
+}
+p{
+    padding: 10px 0 ;
+}
+h1{
+    padding: 5px 0;
+}
